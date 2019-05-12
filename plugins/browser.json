@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "ie.cct"
+    },
+    "cordova-plugin-browsersync": {
+      "PACKAGE_NAME": "ie.cct"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "ie.cct"
+    }
+  },
+  "dependent_plugins": {}
+}
